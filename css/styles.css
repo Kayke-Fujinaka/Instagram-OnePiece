@@ -1,0 +1,173 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background: #CCCCCC;
+}
+
+body img {
+    width: 25px;
+}
+
+
+.container {
+    background: white;
+}
+
+/* ------------- Header ------------- */
+
+header {
+    padding: 10px 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav img {
+    padding-top: 10px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:active img {
+    opacity: 0.2;
+}
+
+.instagram-logo {
+    width: 110px;
+    margin-left: 25px;
+}
+
+.igtv {
+    height: 35px;
+    margin-right: 10px;
+}
+
+.direct {
+    height: 32px;
+    
+}
+
+/* ------------- Section ------------- */
+
+section {
+    
+}
+
+.container-top {
+    display: flex;
+    padding: 15px 0 10px 15px;
+    align-items: center;
+}
+
+.icon {
+    border-radius: 50%;
+    width: 37px;
+    display: block;
+}
+
+.icon:hover {
+    cursor: pointer;
+}
+
+.icon-div {
+    margin-right: 10px;
+    border-radius: 25px;
+    padding: 2px 2px;
+    border: 3px solid #6ED63A ;
+}
+
+h3 {
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+h3:hover {
+    cursor: pointer;
+}
+
+h4 {
+    font-size: 12px;
+    font-weight: 200;
+    color: #666666;
+}
+
+.pedro {
+    display: flex;
+    width: 85%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.point {
+    /* margin-left: 360px; */
+    height: 15px;
+    width: 15px;
+}
+
+.image-central {
+    height: 500px;
+}
+
+.image-central img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.bottom-info {
+    padding: 11px 10px 8px 0px;
+    font-size: 14px;
+}
+
+.hashtags {
+    color: #0b4e8b;
+    line-height: 35px;
+}
+
+.span-1 {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.span-2 {
+    color: #0b4e8b;
+}
+
+.icon-bottom img{
+    height: 26px;
+    width: 26px;
+    margin-left: 10px;
+    line-height: 40px;
+    
+}
+
+.icon-bottom img:hover  {
+    opacity: 0.6;
+}
+
+.save {
+    float: right;
+}
+
+.comments {
+    margin-left: 13px;
+    margin-top: 10px;
+    
+}
+
+.comm {
+    margin-bottom: 10px;
+}
