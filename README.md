@@ -1,8 +1,8 @@
 # Zoro Instagram 
 
-<img src="./readme.png" width="450px" alt="Zoro Instagram">
+<img src="./assets/readme.png" width="450px" alt="Zoro Instagram">
 
->  The site consists of a PlayStation store, which is featuring a PS5 DualShock controller purchase page.
+>  It's an instagram depiction of zoro, a fictional character from Pne Piece.
 
 Confira a aplicação: https://kayke-fujinaka.github.io/Instagram-Zoro/
 
