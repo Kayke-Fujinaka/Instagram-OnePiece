@@ -6,7 +6,6 @@
 }
 
 body {
-    display: flex;
     justify-content: center;
     background: #CCCCCC;
 }
@@ -67,7 +66,7 @@ section {
 
 .container-top {
     display: flex;
-    padding: 15px 0 10px 15px;
+    padding: 15px 0 10px 10px;
     align-items: center;
 }
 
@@ -82,7 +81,7 @@ section {
 }
 
 .icon-div {
-    margin-right: 10px;
+    margin-right: 6px;
     border-radius: 25px;
     padding: 2px 2px;
     border: 3px solid #6ED63A ;
@@ -98,6 +97,11 @@ h3:hover {
     cursor: pointer;
 }
 
+hr {
+    opacity: 0.6;
+}
+
+
 h4 {
     font-size: 12px;
     font-weight: 200;
@@ -106,7 +110,7 @@ h4 {
 
 .pedro {
     display: flex;
-    width: 85%;
+    width: 82%;
     justify-content: space-between;
     align-items: center;
 }
@@ -170,3 +174,5 @@ h4 {
 .comm {
     margin-bottom: 10px;
 }
+
+@media(max-width)
