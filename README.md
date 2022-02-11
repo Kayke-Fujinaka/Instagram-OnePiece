@@ -1,6 +1,6 @@
 # Zoro Instagram 
 
-<img src="./assets/zorão.png" width="450px" alt="Zoro Instagram">
+<img src="./assets/insta.png" width="450px" alt="One piece Instagram">
 
 >  It's an instagram depiction of zoro, a fictional character from Pne Piece.
 
