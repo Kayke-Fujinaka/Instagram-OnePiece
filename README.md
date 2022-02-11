@@ -4,7 +4,7 @@
 
 >  It's an instagram depiction of zoro, a fictional character from Pne Piece.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/Instagram-Zoro/
+Confira a aplicação: https://kayke-fujinaka.github.io/Instagram-OnePiece/
 
 ## 🚀 Technologies
 
