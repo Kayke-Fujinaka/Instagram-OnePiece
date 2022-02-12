@@ -27,7 +27,7 @@ header {
     border-bottom: 1px solid #ccc;
     position: fixed;
     background-color: white;
-    width: 100%;
+    width: 25em;
     z-index: 1;
 }
 
@@ -48,26 +48,29 @@ nav a:active img {
     opacity: 0.2;
 }
 
+.avatar {
+    outline: none;
+}
+
 .instagram-logo {
     width: 110px;
     margin-left: 25px;
+    outline: none;
 }
 
 .igtv {
     height: 35px;
     margin-right: 10px;
+    outline: none;
 }
 
 .direct {
     height: 32px;
-    
+    outline: none;
 }
 
 /* ------------- Section ------------- */
 
-section {
-    
-}
 
 .container-top-l {
     display: flex;
@@ -133,6 +136,10 @@ h4 {
     width: 15px;
 }
 
+.point:hover {
+    cursor: pointer;
+}
+
 .image-central {
     height: 500px;
 }
@@ -186,4 +193,18 @@ h4 {
 
 .comm {
     margin-bottom: 10px;
+}
+
+@media (max-width: 414px) {
+    
+    header {
+        width: 25em;
+    }
+
+}
+
+@media (max-width: 375px) {
+    header {
+        width: 24em;
+    }
 }
