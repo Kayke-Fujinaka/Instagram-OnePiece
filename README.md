@@ -1,35 +1,49 @@
-# One Piece Instagram 
+# Instagram Clone (One Piece Characters)
 
-<img src="./assets/insta.png" width="450px" alt="One piece Instagram">
+<img src="./assets/gif.gif" width="800px" height="400px" alt="Gif do Teste">
 
->  It's an instagram depiction of zoro, a fictional character from Pne Piece.
+>  It's a representation of instagram with some characters from One Piece.
 
-Confira a aplicação: https://kayke-fujinaka.github.io/Instagram-OnePiece/
+Check the Application: https://kayke-fujinaka.github.io/Instagram-OnePiece/
+## :page_facing_up: Explanation
 
-## 🚀 Technologies
+É um clone da página do instagram com alguns personagens de One Piece como temática. 
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+No projeto foi utilizado HTML e CSS para ser realizado.
 
-- HTML5
-- CSS3
+## :dart: Features ##
 
-## 🤝 Colaboradores
+:heavy_check_mark: Estruturação da página;\
+:heavy_check_mark: Estilização da página;\
+:heavy_check_mark: Finalizado;
+## :rocket: Technologies ##
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+The following tools were used in this project:
+
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+## 🤝 Collaborators
+
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+
+&#xa0;
+
+<a href="#top">Back to top</a>
+
