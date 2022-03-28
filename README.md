@@ -1,6 +1,6 @@
 # Instagram Clone (One Piece Characters)
 
-<img src="./assets/gif.gif" width="800px" height="400px" alt="Gif do Teste">
+<img src="./assets/gif.gif" width="800px" height="500px" alt="Gif do Teste">
 
 >  It's a representation of instagram with some characters from One Piece.
 
