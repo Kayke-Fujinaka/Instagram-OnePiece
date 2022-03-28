@@ -36,6 +36,14 @@ We thank the following people who contributed to this project:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/90225074?v=4" width="140px;" alt="Foto do Matheus no GitHub"/><br>
+        <sub>
+          <b>Matheus Santos</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
