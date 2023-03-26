@@ -1,46 +1,52 @@
-# Instagram Clone (One Piece Characters)
+<h1 align="center">🏴‍☠️ Instagram Clone</h1>
 
-<img src="./assets/gif.gif" alt="Gif do Teste">
+![Gif do Teste](./assets/gif.gif)
 
->  It's a representation of instagram with some characters from One Piece.
+> The project is a test that simulates a healthy food recipe website. It includes a registration and login system.
 
-Check the Application: https://kayke-fujinaka.github.io/Instagram-OnePiece/
+Check the Application: https://kayke-fujinaka.github.io/MugiwaraGram/
+
 ## :page_facing_up: Explanation
 
-É um clone da página do instagram com alguns personagens de One Piece como temática. 
+This project is a visual representation of an Instagram profile page, but with a unique twist: it features characters from the popular manga and anime series, One Piece. The page includes a profile picture, a bio section, a list of posts with images and captions, and a sidebar with additional information. Each post is represented by a character from the One Piece universe, with their image and a caption that relates to their personality or story. The overall design is inspired by the theme of pirates and the world of One Piece, with a dark color scheme and bold typography. The project was created using HTML, CSS, and JavaScript, and it serves as a fun and creative way to showcase skills in web development while also appealing to fans of the One Piece franchise.
 
-No projeto foi utilizado HTML e CSS para ser realizado.
+## :dart: Steps
 
-## :dart: Features ##
+:heavy_check_mark: Structure;\
+:heavy_check_mark: Style;\
+:heavy_check_mark: Responsiveness;
 
-:heavy_check_mark: Estruturação da página;\
-:heavy_check_mark: Estilização da página;\
-:heavy_check_mark: Finalizado;
-## :rocket: Technologies ##
+## :rocket: Technologies
 
 The following tools were used in this project:
 
-- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
-## 🤝 Collaborators
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-We thank the following people who contributed to this project:
+## :closed_book: Requirements ##
+
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your computer.
+
+## :checkered_flag: Getting Started ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/Kayke-Fujinaka/HealthyFood
+# Access
+$ cd mugiwaragram
+```
+
+## 🤝 Contributors
+
+We want to thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Kayke Fujinaka's photo on GitHub"/><br>
         <sub>
-          <b>Kayke Alves Fujinaka</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/90225074?v=4" width="140px;" alt="Foto do Matheus no GitHub"/><br>
-        <sub>
-          <b>Matheus Santos</b>
+          <b>Kayke Fujinaka</b>
         </sub>
       </a>
     </td>
